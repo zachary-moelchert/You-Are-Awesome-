@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         var messages = ["You Are Awesome!",
                         "You Are Great!",
                         "You Are Fabulous!",
+                        "Fabulous? That's You!",
                         "When The Genius Bar Needs Help, They Call You!",
                         "You Da Bomb!",
                         "You've Got The Design Skills of Jony Ive"]
