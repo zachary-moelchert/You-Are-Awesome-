@@ -3,7 +3,8 @@
 //  You Are Awesome!
 //
 //  Created by Zachary Moelchert on 1/31/21.
-//
+
+// Weeks 1-2
 
 import UIKit
 
